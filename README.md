@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 💻 Hoje trabalho com desenvolvimento mobile
+- 💻 Hoje trabalho com desenvolvimento mobile e back-end
 - 📚 Estudando Kotlin/C#
 <div align="center">
   <a href="https://github.com/joaodev02">
