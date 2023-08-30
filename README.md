@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
-- 💻 Hoje trabalho com desenvolvimento mobile e back-end
-- 📚 Estudando Kotlin/Java/C#
+- 💻 Hoje trabalho com desenvolvimento back-end
+
 <div align="center">
   <a href="https://github.com/joaodev02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodev02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
