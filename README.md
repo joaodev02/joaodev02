@@ -18,7 +18,7 @@
 
 ```console
 $ whoami
-joão vitor · AI Engineer Lead @ Evolui · multi-agent systems · LLMOps
+joão vitor · Lead AI Engineer @ Evolui · multi-agent systems · LLMOps
 
 $ cat ~/.philosophy
  AI is software. It gets tests, tracing, versioning, evals and governance.
@@ -26,13 +26,13 @@ $ cat ~/.philosophy
 
 Software engineer with **3+ years** building mission-critical backends for the public sector (payroll, tax, eSocial, legislative systems) and, since 2024, **leading Generative AI adoption at scale** across the company.
 
-Today I'm **AI Engineer Lead at Evolui Tecnologia**. I own the GenAI platform and drive adoption on three fronts: **AI-powered products**, **internal tools for employees**, and **agents for the software development lifecycle**. My edge: I bring production-grade engineering discipline to LLMs, so what ships is **reliable, measurable and sustainable** instead of a prototype.
+Today I'm **Lead AI Engineer at Evolui Tecnologia**. I own the GenAI platform and drive adoption on three fronts: **AI-powered products**, **internal tools for employees**, and **agents for the software development lifecycle**. My edge: I bring production-grade engineering discipline to LLMs, so what ships is **reliable, measurable and sustainable** instead of a prototype.
 
 ## 🛤️ The Road So Far
 
 |  | Era | Chapter |
 |:---:|:---|:---|
-| 🧭 | **2026 → now** | **AI Engineer Lead.** Leading the GenAI strategy, setting architecture standards and guiding squads as a technical incubator for LLM, RAG and agent solutions. |
+| 🧭 | **2026 → now** | **Lead AI Engineer.** Leading the GenAI strategy, setting architecture standards and guiding squads as a technical incubator for LLM, RAG and agent solutions. |
 | 🤖 | **2025 → 2026** | **AI Engineer.** Built the company's GenAI platform: multi-agent architectures, SDLC agents, and the **LLMOps and evaluation practice** from scratch. |
 | ⚙️ | **2024 → 2025** | **Software Engineer II.** Critical backends where correctness is regulatory: **eSocial validations**, payroll and tax rules. REST APIs, TDD, SonarQube, CI/CD and containerized workloads on **AWS**. |
 | 🏛️ | **2023 → 2024** | **Software Engineer I.** Features and maintenance for public-sector products (legislative, time tracking, payroll, tax, transparency portals) with **Java, Spring Boot** and SQL Server/Oracle/PostgreSQL. Flutter mobile apps on the side. |
