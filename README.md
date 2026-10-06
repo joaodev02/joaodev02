@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" alt="João Vitor banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:EF4444,65:EF4444,100:0D1117&height=220&section=header&text=Jo%C3%A3o%20Vitor&fontSize=64&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20Lead%20%E2%80%A2%20Multi-Agent%20Systems%20%E2%80%A2%20LLMOps&descSize=16&descAlignY=55"/>
+<img width="100%" alt="João Vitor banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:EF4444,65:EF4444,100:0D1117&height=220&section=header&text=Jo%C3%A3o%20Vitor&fontSize=64&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Lead%20AI%20Engineer%20%E2%80%A2%20Multi-Agent%20Systems%20%E2%80%A2%20LLMOps&descSize=16&descAlignY=55"/>
 
 <a href="https://github.com/joaodev02">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com/?font=DM+Mono&weight=500&size=21&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=720&height=60&lines=AI+Engineer+Lead+%40+Evolui+Tecnologia;Multi-agent+systems+%C2%B7+MCP+%C2%B7+RAG;If+it+isn't+evaluated%2C+it+isn't+done;Reliable+AI+in+production%2C+not+demos;From+Java+backends+to+GenAI+platforms"/>
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com/?font=DM+Mono&weight=500&size=21&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=720&height=60&lines=Lead+AI+Engineer+%40+Evolui+Tecnologia;Multi-agent+systems+%C2%B7+MCP+%C2%B7+RAG;If+it+isn't+evaluated%2C+it+isn't+done;Reliable+AI+in+production%2C+not+demos;From+Java+backends+to+GenAI+platforms"/>
 </a>
 
 <br/>
 
 <img alt="Location" src="https://img.shields.io/badge/Ribeir%C3%A3o_Preto,_Brazil-161B22?style=for-the-badge&logo=googlemaps&logoColor=EF4444"/>
 &nbsp;
-<a href="https://github.com/evoluitecnologia"><img alt="Evolui" src="https://img.shields.io/badge/AI_Lead_%40-Evolui_Tecnologia-EF4444?style=for-the-badge&labelColor=161B22"/></a>
+<a href="https://github.com/evoluitecnologia"><img alt="Evolui" src="https://img.shields.io/badge/Lead_AI_Engineer_%40-Evolui_Tecnologia-EF4444?style=for-the-badge&labelColor=161B22"/></a>
 
 </div>
 
@@ -21,7 +21,7 @@ $ whoami
 joão vitor · Lead AI Engineer @ Evolui · multi-agent systems · LLMOps
 
 $ cat ~/.philosophy
- AI is software. It gets tests, tracing, versioning, evals and governance.
+AI is software. It gets tests, tracing, versioning, evals and governance.
 ```
 
 Software engineer with **3+ years** building mission-critical backends for the public sector (payroll, tax, eSocial, legislative systems) and, since 2024, **leading Generative AI adoption at scale** across the company.
@@ -52,7 +52,7 @@ The GenAI platform at Evolui, designed, built and operated hands-on:
 The part most demos skip, and where I spend most of my time:
 
 - 📈 **LLMOps**: tracing, structured logs, prompt versioning, continuous monitoring of cost, latency and quality
-- ✅ **Evaluation**: golden datasets, prompt regression tests, LLM-as-judge, RAG and agent evals, failure analysis. Models and prompts evolve **without regressions**
+- ✅ **Evaluation**: golden datasets, prompt regression tests, LLM-as-judge, RAG and agent evals, failure analysis, so models and prompts evolve **without regressions**
 - 🛡️ **AI security & governance**: prompt-injection mitigation, data-leak prevention, access control, autonomy limits
 - 🙋 **Human-in-the-loop** approval for every critical action an agent can take
 
